@@ -6,6 +6,7 @@
 ![npm (scoped)](https://img.shields.io/npm/v/@artscomi/tiny.svg)(https://www.npmjs.com/package/@artscomi/tiny)
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@artscomi/tiny?style=flat-square)
 
+
 Removes all spaces from a string.
 
 ## Install
