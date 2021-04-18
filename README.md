@@ -4,7 +4,7 @@
 # @artscomi/tiny
 
 ![npm (scoped)](https://img.shields.io/npm/v/@artscomi/tiny)
-![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@artscomi/tiny?style=flat-square)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@artscomi/tiny)
 
 
 Removes all spaces from a string.
