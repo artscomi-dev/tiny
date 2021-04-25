@@ -1,7 +1,6 @@
 import * as React from 'react'
+import { useState, useEffect } from 'react'
 import './styles.scss'
-
-const { useState, useEffect } = React
 
 const Counter: React.FC<{
   count: number
